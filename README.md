@@ -35,8 +35,7 @@ A web-based navigation system designed to calculate and visualize the shortest p
 
 ## 🌍 Live Demo
 
-Try the live version here:  
-👉 [Tokyo Metro Route Finder](https://tokyometroroutefinder.christophery0614.workers.dev/)
+Try the live version here: 👉 [Tokyo Metro Route Finder](https://tokyometroroutefinder.christophery0614.workers.dev/)
 
 ---
 
