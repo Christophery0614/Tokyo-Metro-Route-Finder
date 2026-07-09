@@ -71,7 +71,7 @@ While the project runs successfully in a local environment, please be aware of t
 Final Year Project Program/
 │
 ├── app.py                         # Main Flask application (routes, controller)
-├── dijkstra_algorithm.py           # Core pathfinding algorithm logic
+├── dijkstra_algorithm.py          # Core pathfinding algorithm logic
 ├── tokyo_subway_data.py           # Subway network dataset (stations, lines, connections)
 ├── requirements.txt               # Python dependencies
 ├── run.bat                        # Windows startup batch script
